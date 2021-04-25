@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template", "Template\Template.csproj", "{4CBA991D-E73C-44AB-8F05-A2227270024F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{1904FF87-0326-42EE-B92F-ADFA301417FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor", "Visitor\Visitor.csproj", "{1904FF87-0326-42EE-B92F-ADFA301417FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{FC189C2B-0318-485B-9BB6-A70934C25949}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{1904FF87-0326-42EE-B92F-ADFA301417FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1904FF87-0326-42EE-B92F-ADFA301417FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1904FF87-0326-42EE-B92F-ADFA301417FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC189C2B-0318-485B-9BB6-A70934C25949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC189C2B-0318-485B-9BB6-A70934C25949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC189C2B-0318-485B-9BB6-A70934C25949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC189C2B-0318-485B-9BB6-A70934C25949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
